@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<title>American Beauty</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+<body>
+
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px">
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="movie_img/American Beauty.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="300" height="500">
+    </div>
+
+      <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center"><p><strong>American Beauty</strong></h1><br>
+      <h5 class="w3-center"><p><strong>IMDb Rating:</strong> 8.4 </h5>
+      <h5 class="w3-center"><p><strong>Douban Rating:</strong> 8.5 </h5>
+      <h5 class="w3-center"><p><strong>Genre:</strong> Drama </h5>
+      <h5 class="w3-center"><p><strong>Release Date:</strong> 1990-10-01 </h5>
+      <h5 class="w3-center"><p><strong>Director:</strong> Sam Mendes </h5>
+      <h5 class="w3-center"><p><strong>Stars:</strong> Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley
+  </h5>
+
+      </div>
+    </div>
+  </div>
+
+    <div align="center">
+      <p><button style = "font-size: 26px" id='button1' class="w3-button w3-light-grey w3-section w3-cell" >IMDb and Douban(Chinese)</button></p>
+      <text class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:34%" align="center" class="float-center">&#12288&#12288&#12288&#12288</text>
+      <img src="imdb_word_cloud_image/American Beauty.jpg" id='image1' class="w3-round w3-image w3-opacity-min hidden" alt="Menu" style="width:34%" align="center" class="float-center">
+      <img src="douban_word_cloud_image/American Beauty.png" id='image2' class="w3-round w3-image w3-opacity-min hidden" alt="Menu" style="width:60%" align="center" class="float-center>
+    </div>
+
+    </div>
+    <div align="center" class="float-center">
+      <p><button style = "font-size: 26px" id='button2' class="w3-button w3-light-grey w3-section" >IMDb and Douban(English)</button></p>
+      <text class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:34%" align="center" class="float-center">&#12288&#12288&#12288&#12288</text>
+      <img src="imdb_word_cloud_image/American Beauty.jpg" id='image3' class="w3-round w3-image w3-opacity-min hidden" alt="Menu" style="width:34%">
+      <img src="douban_word_cloud_image/American Beauty_English.png" id='image4' class="w3-round w3-image w3-opacity-min hidden" alt="Menu" style="width:60%">
+    </div>
+<div>
+
+<style media="screen">
+  .hidden {
+    display: none;
+  }
+  .float-center {
+float: center;
+align:;
+width:45%; // or 33% for equal width independent of parent width
+}
+.background{
+			font-size:26px
+			}
+
+</style>
+  <script>
+    function toggleImage1() {
+      var image1 = document.getElementById('image1');
+      var image2 = document.getElementById('image2');
+      image1.classList.toggle('hidden');
+      image2.classList.toggle('hidden');
+    }
+
+    var button = document.getElementById('button1')
+    button.addEventListener('click', toggleImage1)
+
+    function toggleImage2() {
+      var image3 = document.getElementById('image3');
+      var image4 = document.getElementById('image4');
+      image3.classList.toggle('hidden');
+      image4.classList.toggle('hidden');
+    }
+
+    var button = document.getElementById('button2')
+    button.addEventListener('click', toggleImage2)
+  </script>
+
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+
+<footer class="w3-center w3-light-grey w3-padding-32 back">
+
+  <p style="font-size:30px"> <a href="https://www.w3schools.com/w3css/default.asp" title="back to main page" target="_blank" class="w3-hover-text-green"></a></p>
+
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+No.,Movie Title,Official Rating,Type,Release Date,Director,Star,Douban Official Rating
+1,The Shawshank Redemption,9.3,Drama,1994-10-14,Frank Darabont,"['Tim Robbins', 'Morgan Freeman', 'Bob Gunton', 'William Sadler']",9.6
+2,The Godfather,9.2,"['Crime', 'Drama']",1972-03-24,Francis Ford Coppola,"['Marlon Brando', 'Al Pacino', 'James Caan', 'Diane Keaton']",9.2
+3,The Godfather: Part II,9,"['Crime', 'Drama']",1974-12-20,Francis Ford Coppola,"['Al Pacino', 'Robert De Niro', 'Robert Duvall', 'Diane Keaton']",9.1
+4,The Dark Knight,9,"['Action', 'Crime', 'Drama', 'Thriller']",2008-07-16,Christopher Nolan,"['Christian Bale', 'Heath Ledger', 'Aaron Eckhart', 'Michael Caine']",9.1
+5,12 Angry Men,8.9,Drama,1957-04-10,Sidney Lumet,"['Henry Fonda', 'Lee J. Cobb', 'Martin Balsam', 'John Fiedler']",9.4
+6,Schindler's List,8.9,"['Biography', 'Drama', 'History']",1993-12-25,Steven Spielberg,"['Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall']",9.5
+7,The Lord of the Rings: The Return of the King,8.9,"['Adventure', 'Drama', 'Fantasy']",2003-12-17,Peter Jackson,"['Elijah Wood', 'Viggo Mortensen', 'Ian McKellen', 'Orlando Bloom']",9.1
+8,Pulp Fiction,8.9,"['Crime', 'Drama']",1994-09-10,Quentin Tarantino,"['John Travolta', 'Uma Thurman', 'Samuel L. Jackson', 'Bruce Willis']",8.8
+9,"Il buono, il brutto, il cattivo",8.9,Western,1966-12-23,Sergio Leone,"['Clint Eastwood', 'Eli Wallach', 'Lee Van Cleef', 'Aldo Giuffrè']",9.1
+10,Fight Club,8.8,Drama,1999-10-15,David Fincher,"['Brad Pitt', 'Edward Norton', 'Meat Loaf', 'Zach Grenier']",9
+11,The Lord of the Rings: The Fellowship of the Ring,8.8,"['Adventure', 'Drama', 'Fantasy']",2001-12-19,Peter Jackson,"['Elijah Wood', 'Ian McKellen', 'Orlando Bloom', 'Sean Bean']",9
+12,Forrest Gump,8.8,"['Drama', 'Romance']",1994-07-06,Robert Zemeckis,"['Tom Hanks', 'Robin Wright', 'Gary Sinise', 'Sally Field']",9.4
+13,Star Wars: Episode V - The Empire Strikes Back,8.8,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",1980-05-21,Irvin Kershner,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams']",8.3
+14,Inception,8.8,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",2010-07-14,Christopher Nolan,"['Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Ellen Page', 'Ken Watanabe']",9.3
+15,The Lord of the Rings: The Two Towers,8.7,"['Adventure', 'Drama', 'Fantasy']",2002-12-18,Peter Jackson,"['Elijah Wood', 'Ian McKellen', 'Viggo Mortensen', 'Orlando Bloom']",9
+16,One Flew Over the Cuckoo's Nest,8.7,Drama,1975-11-19,Milos Forman,"['Jack Nicholson', 'Louise Fletcher', 'Will Sampson', 'Michael Berryman']",9.1
+17,Goodfellas,8.7,"['Crime', 'Drama']",1990-09-12,Martin Scorsese,"['Robert De Niro', 'Ray Liotta', 'Joe Pesci', 'Lorraine Bracco']",8.3
+18,The Matrix,8.7,"['Action', 'Sci-Fi']",1999-03-31,"['Lana Wachowski', 'Lilly Wachowski']","['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss', 'Hugo Weaving']",8.9
+19,Shichinin no samurai,8.7,"['Adventure', 'Drama']",1954-04-26,Akira Kurosawa,"['Toshirô Mifune', 'Takashi Shimura', 'Keiko Tsushima', 'Yukiko Shimazaki']",9.2
+20,Se7en,8.6,"['Crime', 'Drama', 'Mystery', 'Thriller']",1995-09-22,David Fincher,"['Morgan Freeman', 'Brad Pitt', 'Kevin Spacey', 'Andrew Kevin Walker']",8.8
+21,Cidade de Deus,8.6,"['Crime', 'Drama']",2002-08-30,"['Fernando Meirelles', 'Kátia Lund']","['Alexandre Rodrigues', 'Leandro Firmino', 'Matheus Nachtergaele', 'Phellipe Haagensen']",8.9
+22,Star Wars,8.6,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",1977-05-25,George Lucas,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Alec Guinness']",7.1
+23,The Silence of the Lambs,8.6,"['Crime', 'Drama', 'Thriller']",1991-02-14,Jonathan Demme,"['Jodie Foster', 'Anthony Hopkins', 'Lawrence A. Bonney', 'Kasi Lemmons']",8.8
+24,It's a Wonderful Life,8.6,"['Drama', 'Family', 'Fantasy']",1947-01-07,Frank Capra,"['James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell']",9.2
+25,La vita è bella,8.6,"['Comedy', 'Drama', 'Romance', 'War']",1997-12-20,Roberto Benigni,"['Roberto Benigni', 'Nicoletta Braschi', 'Giorgio Cantarini', 'Giustino Durano']",9.5
+26,Sen to Chihiro no kamikakushi,8.6,"['Animation', 'Adventure', 'Family', 'Fantasy', 'Mystery']",2001-07-20,"['Hayao Miyazaki', 'Kirk Wise']","['Daveigh Chase', 'Suzanne Pleshette', 'Miyu Irino', 'Rumi Hiiragi']",9.3
+27,Saving Private Ryan,8.6,"['Drama', 'War']",1998-07-24,Steven Spielberg,"['Tom Hanks', 'Matt Damon', 'Tom Sizemore', 'Edward Burns']",8.9
+28,The Usual Suspects,8.6,"['Crime', 'Mystery', 'Thriller']",1995-07-19,Bryan Singer,"['Kevin Spacey', 'Gabriel Byrne', 'Chazz Palminteri', 'Stephen Baldwin']",8.6
+29,Léon,8.6,"['Crime', 'Drama', 'Thriller']",1994-09-14,Luc Besson,"['Jean Reno', 'Gary Oldman', 'Natalie Portman', 'Danny Aiello']",9.4
+30,The Green Mile,8.6,"['Crime', 'Drama', 'Fantasy', 'Mystery']",1999-12-10,Frank Darabont,"['Tom Hanks', 'Michael Clarke Duncan', 'David Morse', 'Bonnie Hunt']",8.7
+31,Interstellar,8.6,"['Adventure', 'Drama', 'Sci-Fi']",2014-11-05,Christopher Nolan,"['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain', 'Mackenzie Foy']",9.2
+32,Psycho,8.5,"['Horror', 'Mystery', 'Thriller']",1960-09-08,Alfred Hitchcock,"['Anthony Perkins', 'Janet Leigh', 'Vera Miles', 'John Gavin']",8.9
+33,American History X,8.5,Drama,1998-11-20,Tony Kaye,"['Edward Norton', 'Edward Furlong', ""Beverly D'Angelo"", 'Jennifer Lien']",8.5
+34,City Lights,8.5,"['Comedy', 'Drama', 'Romance']",1931-03-07,Charles Chaplin,"['Charles Chaplin', 'Virginia Cherrill', 'Florence Lee', 'Harry Myers']",9.3
+35,Casablanca,8.5,"['Drama', 'Romance', 'War']",1942-12-09,Michael Curtiz,"['Humphrey Bogart', 'Ingrid Bergman', 'Paul Henreid', 'Claude Rains']",8.6
+36,Spider-Man: Into the Spider-Verse,8.6,"['Animation', 'Action', 'Adventure', 'Family', 'Sci-Fi']",2018-12-12,"['Bob Persichetti', 'Peter Ramsey', 'Rodney Rothman']","['Shameik Moore', 'Jake Johnson', 'Hailee Steinfeld', 'Mahershala Ali']",8.7
+37,C'era una volta il West,8.5,Western,1968-12-21,Sergio Leone,"['Henry Fonda', 'Charles Bronson', 'Claudia Cardinale', 'Jason Robards']",8.6
+38,Modern Times,8.5,"['Comedy', 'Drama', 'Family', 'Romance']",1936-02-11,Charles Chaplin,"['Charles Chaplin', 'Paulette Goddard', 'Henry Bergman', 'Tiny Sandford']",9.2
+39,The Pianist,8.5,"['Biography', 'Drama', 'Music', 'War']",2002-09-25,Roman Polanski,"['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay', 'Emilia Fox']",9.1
+40,Intouchables,8.5,"['Biography', 'Comedy', 'Drama']",2011-11-02,"['Olivier Nakache', 'Éric Toledano']","['François Cluzet', 'Omar Sy', 'Anne Le Ny', 'Audrey Fleurot']",9.2
+41,The Departed,8.5,"['Crime', 'Drama', 'Thriller']",2006-10-04,Martin Scorsese,"['Leonardo DiCaprio', 'Matt Damon', 'Jack Nicholson', 'Mark Wahlberg']",7.2
+42,Back to the Future,8.5,"['Adventure', 'Comedy', 'Sci-Fi']",1985-07-03,Robert Zemeckis,"['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Crispin Glover']",8.6
+43,Terminator 2: Judgment Day,8.5,"['Action', 'Sci-Fi']",1991-07-03,James Cameron,"['Arnold Schwarzenegger', 'Linda Hamilton', 'Edward Furlong', 'Robert Patrick']",8.6
+44,Whiplash,8.5,"['Drama', 'Music']",2014-10-15,Damien Chazelle,"['Miles Teller', 'J.K. Simmons', 'Melissa Benoist', 'Paul Reiser']",8.6
+45,Rear Window,8.5,"['Mystery', 'Thriller']",1954-11-15,Alfred Hitchcock,"['James Stewart', 'Grace Kelly', 'Wendell Corey', 'Thelma Ritter']",8.5
+46,The Lion King,8.5,"['Animation', 'Adventure', 'Drama', 'Family', 'Musical']",1994-06-23,"['Roger Allers', 'Rob Minkoff']","['Matthew Broderick', 'Jeremy Irons', 'James Earl Jones', 'Whoopi Goldberg']",9
+47,Raiders of the Lost Ark,8.5,"['Action', 'Adventure']",1981-06-12,Steven Spielberg,"['Harrison Ford', 'Karen Allen', 'Paul Freeman', 'John Rhys-Davies']",7.9
+48,Gladiator,8.5,"['Action', 'Adventure', 'Drama']",2000-05-04,Ridley Scott,"['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed']",8.5
+49,The Prestige,8.5,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",2006-10-19,Christopher Nolan,"['Christian Bale', 'Hugh Jackman', 'Scarlett Johansson', 'Michael Caine']",8.8
+50,Apocalypse Now,8.5,"['Drama', 'War']",1979-08-15,Francis Ford Coppola,"['Martin Sheen', 'Marlon Brando', 'Robert Duvall', 'Frederic Forrest']",8.4
+51,Memento,8.5,"['Mystery', 'Thriller']",2000-10-11,Christopher Nolan,"['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano', 'Mark Boone Junior']",8.6
+52,Alien,8.5,"['Horror', 'Sci-Fi']",1979-05-28,Ridley Scott,"['Sigourney Weaver', 'Tom Skerritt', 'John Hurt', 'Veronica Cartwright']",7.3
+53,Nuovo Cinema Paradiso,8.5,Drama,1988-11-17,Giuseppe Tornatore,"['Philippe Noiret', 'Enzo Cannavale', 'Antonella Attili', 'Isa Danieli']",9.2
+54,Hotaru no haka,8.5,"['Animation', 'Drama', 'War']",1988-04-16,Isao Takahata,"['Tsutomu Tatsumi', 'Ayano Shiraishi', 'Akemi Yamaguchi', 'Yoshiko Shinohara']",8.7
+55,The Great Dictator,8.5,"['Comedy', 'Drama', 'War']",1941-01-01,Charles Chaplin,"['Charles Chaplin', 'Paulette Goddard', 'Jack Oakie', 'Reginald Gardiner']",9
+56,Sunset Blvd.,8.4,"['Drama', 'Film-Noir']",1950-09-29,Billy Wilder,"['William Holden', 'Gloria Swanson', 'Erich von Stroheim', 'Nancy Olson']",8.7
+57,Das Leben der Anderen,8.4,"['Drama', 'Thriller']",2006-03-23,Florian Henckel von Donnersmarck,"['Ulrich Mühe', 'Martina Gedeck', 'Sebastian Koch', 'Ulrich Tukur']",9.1
+58,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,Comedy,1964-01-29,Stanley Kubrick,"['Peter Sellers', 'George C. Scott', 'Sterling Hayden', 'Keenan Wynn']",8.7
+59,Paths of Glory,8.4,"['Drama', 'War']",1957-12-20,Stanley Kubrick,"['Kirk Douglas', 'Ralph Meeker', 'Adolphe Menjou', 'George Macready']",9
+60,Avengers: Infinity War,8.5,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",2018-04-25,"['Anthony Russo', 'Joe Russo']","['Robert Downey Jr.', 'Chris Hemsworth', 'Mark Ruffalo', 'Chris Evans']",8.1
+61,The Shining,8.4,"['Drama', 'Horror']",1980-06-13,Stanley Kubrick,"['Jack Nicholson', 'Shelley Duvall', 'Danny Lloyd', 'Scatman Crothers']",8.1
+62,Django Unchained,8.4,"['Drama', 'Western']",2012-12-25,Quentin Tarantino,"['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio', 'Kerry Washington']",8.6
+63,WALL·E,8.4,"['Animation', 'Adventure', 'Family', 'Sci-Fi']",2008-06-26,Andrew Stanton,"['Ben Burtt', 'Elissa Knight', 'Jeff Garlin', 'Fred Willard']",9.3
+64,Mononoke-hime,8.4,"['Animation', 'Adventure', 'Fantasy']",1997-07-12,Hayao Miyazaki,"['Yôji Matsuda', 'Yuriko Ishida', 'Yûko Tanaka', 'Billy Crudup']",8.8
+65,Witness for the Prosecution,8.4,"['Crime', 'Drama', 'Mystery', 'Thriller']",1958-02-06,Billy Wilder,"['Tyrone Power', 'Marlene Dietrich', 'Charles Laughton', 'Elsa Lanchester']",9.6
+66,Oldeuboi,8.4,"['Action', 'Drama', 'Mystery', 'Thriller']",2003-11-21,Chan-wook Park,"['Min-sik Choi', 'Ji-tae Yu', 'Hye-jeong Kang', 'Dae-han Ji']",8.2
+67,The Dark Knight Rises,8.4,"['Action', 'Thriller']",2012-07-19,Christopher Nolan,"['Christian Bale', 'Tom Hardy', 'Anne Hathaway', 'Gary Oldman']",8.7
+68,Aliens,8.4,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",1986-07-18,James Cameron,"['Sigourney Weaver', 'Michael Biehn', 'Carrie Henn', 'Paul Reiser']",7.9
+69,American Beauty,8.4,Drama,1999-10-01,Sam Mendes,"['Kevin Spacey', 'Annette Bening', 'Thora Birch', 'Wes Bentley']",8.5
+70,Once Upon a Time in America,8.4,"['Crime', 'Drama']",1984-05-23,Sergio Leone,"['Robert De Niro', 'James Woods', 'Elizabeth McGovern', 'Treat Williams']",9.1
+71,Coco,8.4,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Music', 'Mystery']",2017-10-27,"['Lee Unkrich', 'Adrian Molina']","['Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt', 'Alanna Ubach']",9
+72,Das Boot,8.4,"['Adventure', 'Drama', 'Thriller', 'War']",1981-09-17,Wolfgang Petersen,"['Jürgen Prochnow', 'Herbert Grönemeyer', 'Klaus Wennemann', 'Hubertus Bengsch']",9
+73,Citizen Kane,8.3,"['Drama', 'Mystery']",1941-06-06,Orson Welles,"['Orson Welles', 'Joseph Cotten', 'Dorothy Comingore', 'Agnes Moorehead']",8.6
+74,Braveheart,8.4,"['Biography', 'Drama', 'History', 'War']",1995-05-24,Mel Gibson,"['Mel Gibson', 'Sophie Marceau', 'Patrick McGoohan', 'Angus Macfadyen']",8.9
+75,Vertigo,8.3,"['Mystery', 'Romance', 'Thriller']",1958-07-21,Alfred Hitchcock,"['James Stewart', 'Kim Novak', 'Barbara Bel Geddes', 'Tom Helmore']",8.5
+76,North by Northwest,8.3,"['Adventure', 'Mystery', 'Thriller']",1959-09-26,Alfred Hitchcock,"['Cary Grant', 'Eva Marie Saint', 'James Mason', 'Jessie Royce Landis']",8.2
+77,Reservoir Dogs,8.3,"['Crime', 'Drama', 'Thriller']",1992-09-02,Quentin Tarantino,"['Harvey Keitel', 'Tim Roth', 'Michael Madsen', 'Chris Penn']",8.3
+78,Star Wars: Episode VI - Return of the Jedi,8.3,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",1983-05-25,Richard Marquand,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams']",8.3
+79,Kimi no na wa.,8.4,"['Animation', 'Drama', 'Fantasy', 'Romance']",2016-08-26,Makoto Shinkai,"['Ryûnosuke Kamiki', 'Mone Kamishiraishi', 'Ryô Narita', 'Aoi Yûki']",8.4
+80,M - Eine Stadt sucht einen Mörder,8.3,"['Crime', 'Mystery', 'Thriller']",1931-08-31,Fritz Lang,"['Peter Lorre', 'Ellen Widmann', 'Inge Landgut', 'Otto Wernicke']",0
+81,Amadeus,8.3,"['Biography', 'Drama', 'History', 'Music']",1984-09-19,Milos Forman,"['F. Murray Abraham', 'Tom Hulce', 'Elizabeth Berridge', 'Roy Dotrice']",8.6
+82,Requiem for a Dream,8.3,Drama,2000-11-03,Darren Aronofsky,"['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly', 'Marlon Wayans']",8.7
+83,Dangal,8.5,"['Action', 'Biography', 'Drama', 'Sport']",2016-12-21,Nitesh Tiwari,"['Aamir Khan', 'Sakshi Tanwar', 'Fatima Sana Shaikh', 'Sanya Malhotra']",9
+84,Taare Zameen Par,8.4,"['Drama', 'Family']",2007-12-21,"['Aamir Khan', 'Amole Gupte']","['Darsheel Safary', 'Aamir Khan', 'Tisca Chopra', 'Vipin Sharma']",8.9
+85,3 Idiots,8.4,"['Comedy', 'Drama']",2009-12-24,Rajkumar Hirani,"['Aamir Khan', 'Madhavan', 'Mona Singh', 'Sharman Joshi']",9.2
+86,Lawrence of Arabia,8.3,"['Adventure', 'Biography', 'Drama', 'History', 'War']",1962-12-11,David Lean,"[""Peter O'Toole"", 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins']",8.7
+87,2001: A Space Odyssey,8.3,"['Adventure', 'Sci-Fi']",1968-04-11,Stanley Kubrick,"['Keir Dullea', 'Gary Lockwood', 'William Sylvester', 'Daniel Richter']",8.7
+88,Eternal Sunshine of the Spotless Mind,8.3,"['Drama', 'Romance', 'Sci-Fi']",2004-03-19,Michel Gondry,"['Jim Carrey', 'Kate Winslet', 'Tom Wilkinson', 'Gerry Robert Byrne']",8.5
+89,Toy Story,8.3,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",1995-11-22,John Lasseter,"['Tom Hanks', 'Tim Allen', 'Don Rickles', 'Jim Varney']",8.8
+90,A Clockwork Orange,8.3,"['Crime', 'Drama', 'Sci-Fi']",1972-01-13,Stanley Kubrick,"['Malcolm McDowell', 'Patrick Magee', 'Michael Bates', 'Warren Clarke']",8.5
+91,Le fabuleux destin d'Amélie Poulain,8.3,"['Comedy', 'Romance']",2001-04-25,Jean-Pierre Jeunet,"['Audrey Tautou', 'Mathieu Kassovitz', 'Rufus', 'Lorella Cravotta']",8.7
+92,Double Indemnity,8.3,"['Crime', 'Drama', 'Film-Noir', 'Mystery', 'Thriller']",1944-07-06,Billy Wilder,"['Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson', 'Byron Barr']",8.5
+93,Singin' in the Rain,8.3,"['Comedy', 'Musical', 'Romance']",1952-04-11,"['Stanley Donen', 'Gene Kelly']","['Gene Kelly', ""Donald O'Connor"", 'Debbie Reynolds', 'Jean Hagen']",9
+94,Taxi Driver,8.3,"['Crime', 'Drama']",1976-02-08,Martin Scorsese,"['Robert De Niro', 'Jodie Foster', 'Cybill Shepherd', 'Albert Brooks']",8.4
+95,Inglourious Basterds,8.3,"['Adventure', 'Drama', 'War']",2009-08-19,"['Quentin Tarantino', 'Eli Roth']","['Brad Pitt', 'Diane Kruger', 'Eli Roth', 'Mélanie Laurent']",8.5
+96,Full Metal Jacket,8.3,"['Drama', 'War']",1987-07-10,Stanley Kubrick,"['Matthew Modine', 'R. Lee Ermey', ""Vincent D'Onofrio"", 'Adam Baldwin']",8.5
+97,Ladri di biciclette,8.3,Drama,1948-11-24,Vittorio De Sica,"['Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell', 'Elena Altieri']",8.9
+98,To Kill a Mockingbird,8.3,"['Crime', 'Drama']",1963-02-11,Robert Mulligan,"['Gregory Peck', 'John Megna', 'Frank Overton', 'Rosemary Murphy']",8.5
+99,The Kid,8.3,"['Comedy', 'Drama', 'Family']",1921-02-06,Charles Chaplin,"['Charles Chaplin', 'Edna Purviance', 'Jackie Coogan', 'Carl Miller']",9.1
+100,The Sting,8.3,"['Comedy', 'Crime', 'Drama']",1973-12-25,George Roy Hill,"['Paul Newman', 'Robert Redford', 'Robert Shaw', 'Charles Durning']",8.7
